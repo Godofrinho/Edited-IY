@@ -1,7 +1,7 @@
 ## Loadstring
-- "test.lua" = $15 script
-- "test2.lua" = $50 script
-- "dev.lua" = developer script
+- "test.lua" = basic script
+- "test2.lua" = more features script
+
 
 ## Loadstring
 ```lua
