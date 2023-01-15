@@ -1,6 +1,7 @@
-## Loadstring
-- "test.lua" = basic script
-- "test2.lua" = more features script
+## Hey!
+I hope you guys are able to learn off me making MewHub open-source and no longer a paid script. Thank you for supporting me in the past and present. I'd love to see if you guys make further improvements to this code. Feel free to fork, star, or even DM me your updated scripts.
+
+I no longer really will touch this project.
 
 
 ## Loadstring
