@@ -7683,9 +7683,9 @@ function partAdded(part)
 			a.Adornee = part
 			a.AlwaysOnTop = true
 			a.ZIndex = 0
-			a.Size = part.Size
+			a.Size = (5, 5, 5)
 			a.Transparency = espTransparency
-			a.Color = BrickColor.new("Lime green")
+			a.Color = BrickColor.new("Fire Yellow")
 		end
 	else
 		partEspTrigger:Disconnect()
@@ -7705,9 +7705,9 @@ addcmd('partesp',{},function(args, speaker)
 				a.Adornee = v
 				a.AlwaysOnTop = true
 				a.ZIndex = 0
-				a.Size = v.Size
+				a.Size = (5, 5, 5)
 				a.Transparency = espTransparency
-				a.Color = BrickColor.new("Lime green")
+				a.Color = BrickColor.new("Fire Yellow")
 			end
 		end
 	end
